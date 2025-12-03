@@ -1,0 +1,18 @@
+
+ # ====================
+ # IntelliJ IDEA
+ # ====================
+ .idea/
+ *.iml
+
+ # Output compilati
+ out/
+
+ # File vari del sistema operativo
+ .DS_Store
+ Thumbs.db
+
+# file miei da ignorare
+notes_1960972467.txt
+offset.txt
+token.txt
