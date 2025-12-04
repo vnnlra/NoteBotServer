@@ -127,4 +127,4 @@ Il progetto permette di comprendere:
 
 ## 📜 Licenza
 
-Aggiungere qui la licenza (MIT, GPL, Apache…), se desiderato.
+MIT
